@@ -1,0 +1,20 @@
+.banner{
+    background-image: url(../../images/bali.jpg);
+    height: 500px;
+    padding: 20px;
+}
+.banner .h-tag{
+    color: rgb(226, 225, 224);
+    margin-left: 50px;
+}
+.home-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 25px;
+    margin: 10px;
+    padding: 20px;
+}
+.carousel img{
+    height: 450px;
+    padding: 50px;
+}

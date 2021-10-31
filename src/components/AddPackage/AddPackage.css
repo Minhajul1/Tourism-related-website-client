@@ -1,0 +1,16 @@
+.add-package{
+    height: 480px;
+    padding: 20px;
+    background-color: rgb(150, 150, 120);
+}
+.add-package form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.add-package form input{
+    width: 40%;
+    margin-bottom: 10px;
+}
